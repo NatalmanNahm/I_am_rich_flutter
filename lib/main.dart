@@ -10,7 +10,7 @@ void main() {
       ),
       body: Center(
         child: Image(
-          image: NetworkImage('https://www.bigstockphoto.com/images/homepage/module-6.jpg'),
+          image: AssetImage('images/diamond.png'),
         ),
       ),
     ),
